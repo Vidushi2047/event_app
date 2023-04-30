@@ -24,6 +24,7 @@ class LikeComment extends StatelessWidget {
            const Icon(Icons.comment_outlined,),
            const SizedBox(width: 5,),
           Text(comment!),
+          Text("hello")
 
         ],
       ),);
